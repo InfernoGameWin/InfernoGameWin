@@ -21,5 +21,5 @@ Keep learning . . .
 ![GIFLOADING](giphy.gif)
 -->
 
-<img src="/images/output/video1.gif" width="250" height="250"/>
+<img src="giphy.gif" width="250" height="250"/>
 
