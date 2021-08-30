@@ -19,3 +19,5 @@ Keep learning . . .
 
 ![GIFLOADING](giphy.gif)
 
+<img src="/images/output/video1.gif" width="250" height="250"/>
+
