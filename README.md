@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 Keep learning . . .
 
-![GIFLOADING](Vanilla-1s-289px.gif)
+![GIFLOADING](giphy.gif)
 
