@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 Keep learning . . .
+
+![GIF LOADING](https://media2.giphy.com/media/IgRhYAUmjSpLGwZIg3/giphy.gif?cid=ecf05e473hki1627nfzg0brrukj0alvex7jkqmu6eqdty4s0&rid=giphy.gif)
