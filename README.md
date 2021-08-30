@@ -17,6 +17,5 @@ Here are some ideas to get you started:
 
 Keep learning . . .
 
-![GIFLOADING](https://tenor.com/xh0X.gif)
+![GIFLOADING](loading-waiting1.gif)
 
-<img src="https://camo.githubusercontent.com/35b739c20b2fa8a4a10e6093f688631c0b2e4de43f4572b39f3fb4596d518557/68747470733a2f2f74656e6f722e636f6d2f786830582e676966" alt="GIFLOADING" data-canonical-src="https://tenor.com/xh0X.gif" width="200" height="400" />
