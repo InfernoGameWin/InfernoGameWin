@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 Keep learning . . .
 
-![GIF LOADING](https://tenor.com/xh0X.gif)
+<div class="tenor-gif-embed" data-postid="5511725" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/loading-waiting-wait-buffering-gif-5511725">Loading Waiting GIF</a>from <a href="https://tenor.com/search/loading-gifs">Loading GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
