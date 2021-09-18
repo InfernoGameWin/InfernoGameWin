@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Keep learning . . .
+
+S2VlcCBsZWFybmluZyAuIC4gLg== 
+<!-- 2 -->
+
 
 <!--  
 ![GIFLOADING](giphy.gif)
@@ -23,3 +26,4 @@ Keep learning . . .
 
 <img src="giphy.gif" width="120" height="120"/>
 
+<!-- base64 encode code (2)-->
